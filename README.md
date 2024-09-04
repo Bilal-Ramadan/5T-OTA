@@ -20,4 +20,7 @@ CM input range - high --> >= 1.5 V
 
 GBW --> >= 10 MHz
 
+Application:
+General purpose OTA.
+
 The Design using Analog designers toolbox (ADT) and open & closed-loop simulations on Xschem.
