@@ -23,4 +23,4 @@ GBW:   > 10 MHz
 Application:
 General purpose OTA.
 
-The Design using Analog designers toolbox (ADT) and open & closed-loop simulations on Xschem.
+The Design using Analog designer's toolbox (ADT) and open & closed-loop simulations on Xschem.
